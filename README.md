@@ -1,0 +1,2 @@
+# Simple_Linear_Regression_from_Scratch_using_Ordinary_Least_Squares_Method
+Applying a Simple Linear Regression model using Ordinary Least Squares Method from scratch
